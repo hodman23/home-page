@@ -1,0 +1,121 @@
+* body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: royalblue;
+    border: 2px solid: white;
+}
+
+ nav{ 
+    /* display: flex;
+    align-items: center;
+    justify-content: space-around; */
+    /* padding-top: 0px;
+    padding-left: 5%;
+    padding-right: 7%;}
+    */
+    
+ }
+.logo h2{
+    margin-left: 2% ;
+    margin-top: 16px;
+    color: white;
+}
+ul{
+    margin-bottom: 90px;
+}
+nav ,ul ,li{
+list-style: none;
+ display: inline-block;
+ padding: 0PX 15px ;
+ text-decoration: none;
+margin-left: 40px; 
+margin-top: -9rem;
+
+}
+ul {
+    margin-left: 40rem; 
+    margin-bottom: -5rem;
+    marle
+    text-decoration: none;
+    
+}
+na ul{
+    margin-bottom: -30%;
+}
+ nav ul li a{
+    color:white ;
+    margin-bottom: -2rem;
+    /* margin-left: auto; */
+}
+li a{
+    text-decoration: none;
+}
+
+.section-center{
+    text-align: center;
+    margin-top: 8rem;
+    padding: 10px;
+}
+.section-center h1{
+    color: white;
+    font-size: 1.2;
+    line-height: 1.2;
+}
+nav button{
+    border-radius: 1;
+    margin-bottom: 2rem;
+ 
+}
+.section-center p{
+    text-transform: capitalize;
+   letter-spacing: 1px;
+ color: white;
+ padding: 10px 5px;
+ 
+
+ line-height: 1.5rem;
+ font-size: 15px;
+ font-weight: bold; letter-spacing:1px ;
+
+
+}
+nav button{
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 2px solid cadetblue;
+    border-radius: 30px;
+    background-color: lightblue;
+
+}
+.all-btn{
+    text-decoration: none;
+ 	color: white;
+    display: flex;
+    margin-left: 35%;	
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+.all-btn .btn-1{
+ border: 3px;
+    padding: 14px 100px  13px  15px;
+    background-color: palegreen;
+    border-radius: 30px;
+}
+.all-btn .btn-2{
+    border: 2px solid cadetblue;
+    padding: 12px 90px 12px 15px ;
+    position: absolute;
+    margin-left: 13rem;
+   border-radius: 30px;
+   
+
+background-color: lightblue
+}
+.all .par{
+   margin-top: -15px;
+   font-size: 10px;
+   color: lightskyblue;
+   
+}
